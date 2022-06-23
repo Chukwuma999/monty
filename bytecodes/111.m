@@ -1,0 +1,2 @@
+nop
+push 3
